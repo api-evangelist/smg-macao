@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-The Meteorological and Geophysical Bureau (SMG) of the Macau Special Administrative Region Government provides weather forecasts, climate data, and geophysical information for Macau. It operates under the Macau government, offering public services such as meteorological observations, warnings, and environmental monitoring. The agency’s website hosts resources and information for residents, businesses, and researchers interested in Macau’s weather and geophysical conditions.
+SMG (Macao) operates the Macau Government Geophysical and Meteorological Bureau, providing public weather forecasts, tide information, earthquake monitoring, and related geophysical data for the Macau Special Administrative Region. The site offers real-time weather alerts, multi-day forecasts, and various environmental services accessible to citizens and developers.
 
-**Areas:** Company
+**Areas:** Weather · Meteorology · Geophysics · Macau · Government
 
 ## SMG (Macao) on APIs.io
 
@@ -86,48 +86,13 @@ Authentication, trust centre, and vulnerability disclosure.
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://smg.gov.mo/)
+- [Documentation](https://www.smg.gov.mo/zh)
 
 ## API Evangelist rating
 
-**Kin Score 2.2** — minimal · rubric 0.24.0 · scored 2026-10-29
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Facet | Score |
-|---|---|
-| Discoverability | 35.7 |
-| Contract quality | 0.0 |
-| Contract governance | 0.0 |
-| Operational transparency | 0.0 |
-| Developer ergonomics | 0.0 |
-| Access clarity | 0.0 |
-
-**Agent readiness 0.0** — human-only
-
-| Agent-readiness dimension | Result |
-|---|---|
-| Spec Presence | — |
-| Agentic Access | — |
-| Reversibility Documented | — |
-| MCP Server | — |
-| Auth Clarity | — |
-| Idempotency | — |
-| Error Semantics | — |
-| OpenAPI Examples | — |
-| Rate Limit Signal | — |
-| Event Surface Described | — |
-| Agent Skills | — |
-| Well Known Catalog | — |
-| Consent Identity | — |
-| Agent Card | — |
-| Dry Run Mode | — |
-| Delegated Identity | — |
-| Protected Resource Metadata | — |
-| Dynamic Client Registration | — |
-| Agentic Commerce | — |
-
-**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
-
-The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/smg-macao/](https://apis.io/providers/smg-macao/).
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
 ## How this profile is made
 
